@@ -19,5 +19,8 @@
     "express"
   ],
   "author": "Aldrich Santos",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "materialize-css": "^0.98.0"
+  }
 }
